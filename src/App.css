@@ -1,0 +1,10 @@
+.content{
+  width: 700px;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap
+}
+.catimg{
+  width: 200px;
+  height: 200px;
+}
